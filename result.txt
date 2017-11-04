@@ -1,0 +1,14 @@
+inputCharacter is: A : 65
+The output character is: H
+inputCharacter is: B : 66
+The output character is: Q
+inputCharacter is: C : 67
+The output character is: K
+inputCharacter is: D : 68
+The output character is: U
+inputCharacter is: E : 69
+The output character is: O
+inputCharacter is: R : 82
+The output character is: P
+inputCharacter is: T : 84
+The output character is: M
